@@ -17,13 +17,8 @@ Por esto la idea es crear un microservicio de fácil uso, intuitivo y con una in
 ## Herramientas que se van a utilizar
 
 **Lenguaje de programación:** Se usará *Python*, ya que estoy bastante familiarizada con este lenguaje y tiene muchas funcionalidades y librerías que creo pueden ser útiles para el desarrollo de la aplicación
-
 **Base de datos:** La BD utilizada será *PostgreSQL*.
-
 **Framework:** En principio se utilizará *Flask*.
-
 **Gestión de logs:** Se usará *Logstash*.
-
 **Tests:** Se utilizará *pytest*, ya que tiene gran cantidad de extensiones que pueden ser muy útiles.
-
 **PaaS:** *Heroku*.
