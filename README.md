@@ -1,8 +1,11 @@
 # proyectoIV
 
 ## Descripción general
+
 La herramienta a desarrollar será un microservicio dirigido a la gestión y organización de empresas.
+
 La idea principal sería que la empresa pudierá almacenar información sobre sus clientes, productos en almacén, flota de vehículos y trabajadores, y con toda esta información almacenada poder realizar presupuestos de forma más rápida y automática.
+
 Habría una versión base que más tarde podría adaptarse a las necesidades de cada empresa añadiendole más funcionalidades.
 
 ## Motivación
