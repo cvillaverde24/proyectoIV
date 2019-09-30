@@ -9,7 +9,9 @@ La idea principal sería que la empresa pudierá almacenar información sobre su
 Habría una versión base que más tarde podría adaptarse a las necesidades de cada empresa añadiendole más funcionalidades.
 
 ## Motivación
+
 Hablando con personas que gestionan empresas me han comentado que notan la necesidad de tener una aplicación de gestión adaptada a sus propias necesidades, normalmente las que encuentran a su disposición no tienen quizás todas las opciones que necesitan o son demasiado complejas para el uso que realmente van a darle.
+
 Por esto la idea es crear un microservicio de fácil uso, intuitivo y con una interfaz que con un rápido vistazo y en pocos pasos tengan lo que necesitan.
 
 ## Herramientas que se van a utilizar
