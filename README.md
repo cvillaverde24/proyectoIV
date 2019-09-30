@@ -20,3 +20,5 @@ Por esto la idea es crear un microservicio de fácil uso, intuitivo y con una in
 **Gestión de logs:** Se usará *Logstash*.
 
 **Tests:** Se utilizará *pytest*, ya que tiene gran cantidad de extensiones que pueden ser muy útiles.
+
+**PaaS:** *Heroku*.
